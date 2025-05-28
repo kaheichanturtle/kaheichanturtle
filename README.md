@@ -1,4 +1,3 @@
-![Because of Obi-Wan](https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 # Hi, I'm Ka Hei! 👋
 You can visit [my website](https://www.shorturl.at/v8TYg) for a short biography and projects I'm working on.
@@ -6,6 +5,10 @@ You can visit [my website](https://www.shorturl.at/v8TYg) for a short biography 
 🎓 High school student & aspiring software engineer  
 💡 Passionate about AI, web dev, and problem-solving  
 🚀 Creator of [Healthmate](https://healthmate.glitch.me) | [ParkEase AI](https://parkease.glitch.me) | [Puzzle World Australia](https://puzzleworldaustralia.square.site)  
+
+Important notice!
+Glitch.com, the web provider of HealthMate and most of my projects, will be shutting down in July 2025. Moreover, with the recent release of MedGemma (https://deepmind.google/models/gemma/medgemma/), we’re entering a new era of open source, offline medical AI that can handle images and much more. As a result, our project, HealthMate (formerly Ayako), will no longer be updated and will quietly fade away. Thank you for being part of our journey, especially during the Knox Grammar - Macquarie University Global Challenge Week. With smarter, offline medical AI now available, everyone will soon have access to a doctor, even without internet.
+
 
 ## 🛠 Tech Stack  
 - 💻 Programming: Python, JavaScript, C++  
