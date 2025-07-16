@@ -7,13 +7,11 @@ You can visit [my website](https://www.shorturl.at/v8TYg) for a short biography 
 🚀 Creator of [Healthmate](https://healthmate.glitch.me) | [ParkEase AI](https://parkease.glitch.me) | [Puzzle World Australia](https://puzzleworldaustralia.square.site)  
 
 Important notice!
-Glitch.com, the web provider of HealthMate and most of my projects, will be shutting down in July 2025. Moreover, with the recent release of MedGemma (https://deepmind.google/models/gemma/medgemma/), we’re entering a new era of open source, offline medical AI that can handle images and much more. As a result, our project, HealthMate (formerly Ayako), will no longer be updated and will quietly fade away. Thank you for being part of our journey, especially during the Knox Grammar - Macquarie University Global Challenge Week. With smarter, offline medical AI now available, everyone will soon have access to a doctor, even without internet.
+Glitch.com, the web provider of HealthMate and most of my projects, will be shutting down in July 2025. As a result, our project, HealthMate (formerly Ayako), and most of my projects, will no longer be updated and will quietly fade away and taken offline on July. Thank you for being part of our journey, especially during the Knox Grammar - Macquarie University Global Challenge Week. I'll try to update or include the source code of the projects I made here or to another web hosting site, but for now I'm gonna take a break from this!
 
 
 ## 🛠 Tech Stack  
-- 💻 Programming: Python, JavaScript, C++  
-- 🌐 Web: HTML, CSS, React  
-- 📱 Tools: Figma, Photoshop, Premiere Pro  
+- 📱 Tools: Figma, Photoshop, Premiere Pro and my best buddy ChatGPT
 
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ka-hei-chan-952aa1304/)  
