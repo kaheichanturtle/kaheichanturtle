@@ -1,6 +1,6 @@
 
 ## Hi, I'm Ka Hei! 👋
-You can visit [my website](https://www.shorturl.at/v8TYg) for my CV, about me and all my projects.
+You can visit [my website](https://kaheichan.neocities.org) for my CV, about me and all my projects.
 
 ### Simple about me:
 High school student & aspiring web designer  
