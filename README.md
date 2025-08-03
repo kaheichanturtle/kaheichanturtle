@@ -3,7 +3,7 @@
 You can visit [my website](https://kaheichan.neocities.org) for my CV, about me and all my projects.
 
 ### Simple about me:
-High school student & aspiring web designer  
+High school student & aspiring UX/UI front end designer  
 Passionate about AI, web dev, and problem-solving  
 Creator of [HealthMate](https://healthmate.glitch.me) | [ParkEase](https://parkease.glitch.me) | [Puzzle World Australia](https://puzzleworldaustralia.square.site) | [Globot](https://globot.neocities.org/new)  
 
