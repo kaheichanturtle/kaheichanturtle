@@ -7,7 +7,7 @@ High school student & aspiring UX/UI front end designer
 Passionate about AI, web dev, and problem-solving  
 
 ## Important notice!
-Glitch.com, the web provider of HealthMate and most of my projects, will be shutting down in July 2025. As a result, the project, HealthMate (formerly Ayako), and some of my projects, will no longer be updated and will quietly fade away after being taken offline on July. Thank you for being part of our journey, especially during the Knox Grammar - Macquarie University Global Challenge Week. 
+Glitch.com, the web provider of HealthMate and some of my projects, will be shutting down in July 2025. As a result, the project, HealthMate (formerly Ayako), will no longer be updated and will quietly fade away after being taken offline on July. Thank you for being part of our journey, especially during the Knox Grammar - Macquarie University Global Challenge Week. 
 
 ### Tech Stack  
 - Tools: Figma, Photoshop and my best buddy ChatGPT and Gemini
