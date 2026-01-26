@@ -12,7 +12,7 @@
 
   <!-- Intro Text -->
   <p align="center">
-    <strong>I build software that prioritises aesthetics, functionality, and freedom.</strong><br>
+    <strong>Vibe coding software that prioritises aesthetics, functionality, and freedom.</strong><br>
     My mission is to break down paywalls and create open alternatives to gated software.
   </p>
 
@@ -29,33 +29,8 @@
     <img src="https://img.shields.io/badge/Instagram-@ka.hei.chan-030304?style=for-the-badge&logo=instagram&logoColor=2979ff&labelColor=101010" alt="Instagram" />
   </a>
   <a href="https://kaheichan.neocities.org/">
-    <img src="https://img.shields.io/badge/Website-Project_Freedom_Bell-030304?style=for-the-badge&logo=firefox&logoColor=2979ff&labelColor=101010" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-kaheichan.neocities.org-030304?style=for-the-badge&logo=firefox&logoColor=2979ff&labelColor=101010" alt="Website" />
   </a>
 
 </div>
 
-<br/><br/>
-
-## Featured Open Source Freedom Projects
-
-| **TurtleDB** | **Shellcraft Forms** |
-| :---: | :---: |
-| <a href="https://parkease.neocities.org"><img src="https://kaheichan.neocities.org/images/parkease.png" width="300" alt="ParkEase"></a> | <a href="https://shellcraftforms.neocities.org/"><img src="https://kaheichan.neocities.org/images/form.png" width="300" alt="Shellcraft Forms"></a> |
-| **Confusing Parking Signs? Solved.**<br>Timer, Interpreter, History<br>Completely free. | **The Typeform Killer.**<br>Beautiful, multi-step forms.<br>No code. No cost. |
-| [Park Smarter &rarr;](https://parkease.neocities.org) | [Start Building &rarr;](https://shellcraftforms.neocities.org/) |
-
-<br/>
-
-
-
-<div align="center">
-  <!-- GitHub Stats (Customized to match your CSS: BG #030304, Text #ffffff, Accent #2979ff) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kaheichanturtle&show_icons=true&theme=transparent&bg_color=030304&title_color=2979ff&text_color=ffffff&icon_color=2979ff&border_color=2979ff&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaheichanturtle&layout=compact&theme=transparent&bg_color=030304&title_color=2979ff&text_color=ffffff&hide_border=true" height="150" alt="languages" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <p>Authorised by Ka Hei Chan • Presented by Shellcraft Studios</p>
-</div>
