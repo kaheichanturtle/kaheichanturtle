@@ -1,18 +1,18 @@
 <div align="center">
 
   <!-- Logo / Title -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=030304&height=200&section=header&text=Project%20Freedom%20Bell&fontSize=70&fontAlign=50&fontAlignY=40&desc=Ka%20Hei%20Chan%20%7C%20Shellcraft%20Studios&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Project Freedom Bell Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a3cfff&height=200&section=header&text=Project%20Freedom%20Bell&fontSize=70&fontAlign=50&fontAlignY=35&desc=Ka%20Hei%20Chan%20%7C%20Shellcraft%20Studios&descAlign=50&descAlignY=60&fontColor=1d6cc2" alt="Project Freedom Bell Header" />
 
   <!-- Animated Typing Text (Matches your Manifesto) -->
   <a href="https://kaheichan.neocities.org">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=2979FF&center=true&vCenter=true&width=500&lines=Software+shouldn%27t+cost+a+fortune.;Education+shouldn%27t+have+a+paywall.;What+should+be+free,+free.;What+should+be+done,+done.;Releasing+Freedom+For+All." alt="Manifesto Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=a3cfff&center=true&vCenter=true&width=500&lines=Software+shouldn%27t+cost+a+fortune.;Education+shouldn%27t+have+a+paywall.;What+should+be+free,+free.;What+should+be+done,+done.;Releasing+Freedom+For+All." alt="Manifesto Animation" />
   </a>
 
   <br/><br/>
 
   <!-- Intro Text -->
   <p align="center">
-    <strong>Vibe coding software that prioritises aesthetics, functionality, and freedom.</strong><br>
+    <strong>Vibe coding tools that prioritises aesthetics, functionality, and freedom.</strong><br>
     My mission is to break down paywalls and create open alternatives to gated software.
   </p>
 
