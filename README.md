@@ -33,4 +33,9 @@
   </a>
 
 </div>
+<br>
+  <p align="center">
+    <strong>Project Freedom Bell | Shellcraft Labs</strong><br>
+    by Ka Hei Chan. <br> Shellcraft ❤️ Open Source
+  </p>
 
