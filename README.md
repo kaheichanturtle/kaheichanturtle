@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Logo / Title -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a3cfff&height=200&section=header&text=Project%20Freedom%20Bell&fontSize=70&fontAlign=50&fontAlignY=35&desc=Ka%20Hei%20Chan%20%7C%20Shellcraft%20Studios&descAlign=50&descAlignY=60&fontColor=1d6cc2" alt="Project Freedom Bell Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a3cfff&height=200&section=header&text=Ka%20Hei%20Chan&fontSize=70&fontAlign=50&fontAlignY=35&fontColor=1d6cc2" alt="Project Freedom Bell Header" />
 
   <!-- Animated Typing Text (Matches your Manifesto) -->
   <a href="https://kaheichan.neocities.org">
@@ -10,11 +10,7 @@
 
   <br/><br/>
 
-  <!-- Intro Text -->
-  <p align="center">
-    <strong>Vibe coding tools that prioritises aesthetics, functionality, and freedom.</strong><br>
-    My mission is to break down paywalls and create open alternatives to gated software.
-  </p>
+
 
   <br/>
 
@@ -33,9 +29,5 @@
   </a>
 
 </div>
-<br>
-  <p align="center">
-    <strong>Project Freedom Bell | Shellcraft Labs</strong><br>
-    by Ka Hei Chan. <br> Shellcraft ❤️ Open Source
-  </p>
+
 
